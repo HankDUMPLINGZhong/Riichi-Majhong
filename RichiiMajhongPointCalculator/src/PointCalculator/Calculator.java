@@ -1,5 +1,7 @@
 package PointCalculator;
-//改变了文件内容 测试push
+//Test Push
 public class Calculator {
-	
+	public static void main(String[] args) {
+		
+	}
 }
